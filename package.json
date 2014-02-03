@@ -1,0 +1,29 @@
+{
+  "name": "workers-council",
+  "version": "0.0.0",
+  "description": "OpenSource software to help run a new mutualist society",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/m3talsmith/workers-council.git"
+  },
+  "keywords": [
+    "mutualist",
+    "worker",
+    "council",
+    "microfunding",
+    "government"
+  ],
+  "author": "Michael Christenson II",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/m3talsmith/workers-council/issues"
+  },
+  "homepage": "https://github.com/m3talsmith/workers-council",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
