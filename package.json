@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/m3talsmith/workers-council",
   "dependencies": {
-    "socket.io": "~0.9.16"
+    "socket.io": "~2.4.0"
   }
 }
